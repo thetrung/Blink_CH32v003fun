@@ -3,7 +3,7 @@ Blink on CH32v003 plus "fun"
 Which obviously is not fun at all, but firmware size is a little better :
 
     496 bytes (ch32v003fun) 
-    524 bytes (noneOS-SDK) 
+    824 bytes (noneOS-SDK) 
     5,352 bytes (Arduino.h)
 
 ## * NOTE :
